@@ -23,7 +23,6 @@ export const receipt = {
   ],
   extra: [
     { label: "Hackathons entered", value: "2" },
-    { label: "Hackathons won", value: "1" },
   ],
 }
 
